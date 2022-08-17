@@ -1,0 +1,38 @@
+searching
+
+
+						ds
+		Linear				NonLinear 
+		
+		
+	ds -> collections of data -> how? read? modify? -> efficient way -> sort , search 
+			how? algo -> 
+			
+			
+			
+						DS 
+	Primitive DS					NonPrimitiveDS 
+	int ,char,	
+						Linear							   NonLinear 
+				Array Stack Queue	LinkedList 			Tree    Graph 
+				 		
+						
+Los -> cal -> flight -> search 
+
+
+Los -> Cal -> by Car -> map visit 
+
+
+amazon -> product -> search -> 
+
+amazon -> product -> search -> add to cart -> buy 
+
+10.20 am -> 50 customer iphone 14 -> Queue ->  FCFS 
+
+
+
+
+
+
+
+
