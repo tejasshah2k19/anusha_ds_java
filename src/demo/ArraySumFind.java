@@ -6,7 +6,7 @@ public class ArraySumFind {
 
 	public static void main(String[] args) {
 
-		int a[] = { 7, 2, 13, 4, 5, 23 };
+		int a[] = { 7, 2, 13, 4, 5, 23 };//4
 		findIndex(a, 20);
 	}
 
