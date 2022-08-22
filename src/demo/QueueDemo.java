@@ -33,11 +33,11 @@ public class QueueDemo {
 	}
 }
   //  0		1	2	3	4 
- //   10	20 30   40 50 
- //                     
+ //   60   	   30   40 50 
+ //   r        f           
 //-1 
 //simple queue
-//circular queue 
+//circular queue [insert remove and print ] 
 
 class MyQueue {
 	final int SIZE = 5;
