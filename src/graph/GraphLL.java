@@ -81,7 +81,7 @@ class Graph {
 		int cost =0;
 
 		while (count != this.V - 1) {// 3
-			if (this.edges[i].visited == false) {
+			if (this.edges[i].visited == false  &&  intersection(this.edges[i].src,this.edges[i].dest) == false  ) {
 				this.edges[i].visited = true; // 3 2 => true 
 				setVisited(this.edges[i].dest, this.edges[i].src, true);
 				count++;// 1  2 
@@ -102,6 +102,14 @@ class Graph {
 				break;
 			}
 		}
+	}
+	
+	boolean intersection(int src,int dest) {
+		//set => src => 
+		//set => dest => 
+		//intersect => mila --> true 
+		// not found => false 
+		return false;
 	}
 }
 
