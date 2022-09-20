@@ -47,7 +47,7 @@ public class LinkedListDemo {
 
 		while (true) {
 
-			System.out.println("0 for exit\n1 for add node\n2 for display\nenter your choice!");
+			System.out.println("0 for exit\n1 for add node\n2 for display\n3 for delete\nenter your choice!");
 			int choice = scr.nextInt();
 
 			switch (choice) {

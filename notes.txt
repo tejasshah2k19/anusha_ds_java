@@ -31,6 +31,61 @@ amazon -> product -> search -> add to cart -> buy
 
 
 
+-------------------------------------------------------
+
+minimum spanning tree --> 
+		total cost of all the edges in a tree -> visit 
+		cost -> minimum -> sum 
+		
+		1) kruskal 
+		2) primt's
+		3) djkstra
+		
+		
+		
+		KRUSKAL's Algo.
+		
+		this algo build your tree by adding edges one by one into a current tree. 
+		greedy approach -> minimum cost 
+		
+		
+		*) sort all the edges in asc order 
+		*) now  visit one by one edges in asc order , but make sure no cycle
+		*) once all the vertices are visited terminate the iteration 
+		
+			 
+		Prim's Algo.
+		Greedy approach 
+		initial vertex -> 
+			find out smallest edge from connected vertex
+			
+			*) start with any vertex [ initial vertex ] 
+			*) find out the smallest edge with all connected vertices , do not repeat , dont make cycle 
+			
+			
+		Dijkstra's Shortest Path Algo :- 
+			*) select one source vertext and visit all the vertices from one source 
+			*) so start with 0 and try to connect all the vertices from 0 to XXX 
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
