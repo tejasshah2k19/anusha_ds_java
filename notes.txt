@@ -38,7 +38,7 @@ minimum spanning tree -->
 		cost -> minimum -> sum 
 		
 		1) kruskal 
-		2) primt's
+		2) prim's
 		3) djkstra
 		
 		
@@ -64,13 +64,15 @@ minimum spanning tree -->
 			
 			
 		Dijkstra's Shortest Path Algo :- 
-			*) select one source vertext and visit all the vertices from one source 
+			*) select one source vertex and visit all the vertices from one source 
 			*) so start with 0 and try to connect all the vertices from 0 to XXX 
 			
 
 
 
-
+Prim's  -> minimum spanning tree  
+	
+Dijkstra -> shortest path  
 
 
 
